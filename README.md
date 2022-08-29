@@ -11,8 +11,8 @@ Idea is very simple, items that you might like based on tastes/reactions of simi
 ## Screenshots
 	# Popularity based 
 	
-	![App Screenshot](img_1.PNG)
-	<img src="img_1.PNG">
+![App Screenshot](img_1.PNG)
+	<img src="img_1.PNG"/>
 	
 	# Collaborative based
 	
