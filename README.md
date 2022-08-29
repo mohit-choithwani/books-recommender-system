@@ -12,13 +12,13 @@ Idea is very simple, items that you might like based on tastes/reactions of simi
 	# Popularity based 
 	
 ![App Screenshot](img_1.PNG)
-	<img src="img_1.PNG"/>
+	
 	
 	# Collaborative based
 	
-	![App Screenshot](img_2.PNG)
+![App Screenshot](img_2.PNG)
 	
-	![App Screenshot](img_3.PNG)
+![App Screenshot](img_3.PNG)
  
 ## About Project
 	Books review dataset which is used to create recommender system is from kaggle Book Recommendation dataset (https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset). 
